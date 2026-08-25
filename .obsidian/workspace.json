@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "67030314/08-Labsheet-07-3-BLE-Provisioning-and-GATT-Forensics.md",
+                "file": "67030314/09-Labsheet-07-4-Security-Schemes-and-Custom-Data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08-Labsheet-07-3-BLE-Provisioning-and-GATT-Forensics"
+              "title": "09-Labsheet-07-4-Security-Schemes-and-Custom-Data"
             }
           }
         ]
@@ -201,8 +201,8 @@
   },
   "active": "37c0c5a6d311d60a",
   "lastOpenFiles": [
-    "67030314/09-Labsheet-07-4-Security-Schemes-and-Custom-Data.md",
     "67030314/08-Labsheet-07-3-BLE-Provisioning-and-GATT-Forensics.md",
+    "67030314/09-Labsheet-07-4-Security-Schemes-and-Custom-Data.md",
     "67030314/images/Lab07-4-2.png",
     "67030314/images/Lab07-4-1.png",
     "67030314/07-Labsheet-07-2-SoftAP-Provisioning-and-HTTP-Sniffing.md",
