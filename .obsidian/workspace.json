@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "67030314/07-Labsheet-07-2-SoftAP-Provisioning-and-HTTP-Sniffing.md",
+                "file": "67030314/08-Labsheet-07-3-BLE-Provisioning-and-GATT-Forensics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07-Labsheet-07-2-SoftAP-Provisioning-and-HTTP-Sniffing"
+              "title": "08-Labsheet-07-3-BLE-Provisioning-and-GATT-Forensics"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "67030314/07-Labsheet-07-2-SoftAP-Provisioning-and-HTTP-Sniffing.md",
+                "file": "67030314/08-Labsheet-07-3-BLE-Provisioning-and-GATT-Forensics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "67030314/07-Labsheet-07-2-SoftAP-Provisioning-and-HTTP-Sniffing.md",
+                "file": "67030314/08-Labsheet-07-3-BLE-Provisioning-and-GATT-Forensics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "67030314/07-Labsheet-07-2-SoftAP-Provisioning-and-HTTP-Sniffing.md",
+                "file": "67030314/08-Labsheet-07-3-BLE-Provisioning-and-GATT-Forensics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,8 +201,13 @@
   },
   "active": "37c0c5a6d311d60a",
   "lastOpenFiles": [
-    "67030314/06-Labsheet-07-1-Reset-Mechanisms-and-NVS-ForensicsHeartbeat.md",
+    "67030314/09-Labsheet-07-4-Security-Schemes-and-Custom-Data.md",
+    "67030314/08-Labsheet-07-3-BLE-Provisioning-and-GATT-Forensics.md",
+    "67030314/images/Lab07-4-2.png",
+    "67030314/images/Lab07-4-1.png",
     "67030314/07-Labsheet-07-2-SoftAP-Provisioning-and-HTTP-Sniffing.md",
+    "67030314/06-Labsheet-07-1-Reset-Mechanisms-and-NVS-ForensicsHeartbeat.md",
+    "67030314/images/Lab07-3.png",
     "67030314/images/Lab07-2.png",
     "67030314/images/Lab07-1.png",
     "67030314/images/Heartbeat Connection State-2026-08-24-024429.png",
@@ -213,11 +218,9 @@
     "Untitled.md",
     "67030314/images",
     "Pasted image 20260824094228.png",
-    "67030314/09-Labsheet-07-4-Security-Schemes-and-Custom-Data.md",
     "Readme.md",
     "01-WiFi-Provisioning-Architecture-and-Protocomm.md",
     "ESP32 Provision.drawio.svg",
-    "67030314/08-Labsheet-07-3-BLE-Provisioning-and-GATT-Forensics.md",
     "67030314"
   ]
 }
